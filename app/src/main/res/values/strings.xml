@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">The KILLER</string>
+    <string name="numNbrJoueurH">1</string>
+    <string name="textNbrJoueurH">Joueur Humain</string>
+    <string name="numNbrJoueurIA">1</string>
+    <string name="textNbrJoueurIA">Joueur IA</string>
+    <string name="regles">Vous devez faire a tour de roles avec un ou plusieur lancés de 5 dés,\n
+    un score de moin de 11 ou plus de 24 pour tentez une attaque sur un des joueurs ennemis,\n\n
+    11 et 24 piles vous fait gagner un lancé de 1 dés de vies.\n\n
+    Entre 11 et 24 vous perdez la difference entre votre score et 11 ou 24, suivant du quel il est plus proche.\n\n
+        Vous lancez les 5 des puis vous choisisser 1 dé (minimum) ou plus avant de relancer les dés restants.\n\n
+        L\'addition des dés gardés donnent votre score\n\n
+        Un calcule sur votre score peux vous donner droit a une attaque de valeure égale a la diference du score et 11 si le score et INFERIEUR a 11 et,
+        la diference du score et 24 si le score et SUPERIEUR a 24\n\n
+        Si une attaque a lieux vous devrez choisir une CIBLE parmit les joueurs en vies.\n\n
+        Vous lancez ensuite les 5 dés et gardez tout les dés de la valeurs de l\'attaque qui a été calculée,
+        puis vous relancez les dés restants jusqu\'a ce qu\'il n\'y aient plus de dés de la valeur de l\'attaque, ou que tout le dés soit gardés.\n\n
+        L\'addition des dés gardés sont egale aux DEGATS que subit la VIE de la cible.\n\n
+        Le dernier en Joueur Humain en vie gagne la partie.\n\n
+    </string>
+    <string name="InfoPseudo">Saisir votre pseudo.\n\n
+        Le nombre de joueurs Humain controlés par vous à tours de rôles.\n\n
+        Le nombre joueur IA contrtolées par Killer.\n\n</string>
+
+
+    <string name="score">SCORE\n</string>
+
+    <string name="tourJoueur">Joueur\n</string>
+
+    <string name="back">Voulez vous vraiment quitter la partie.\n\n
+    Toute les donnée seront perdu!!\n</string>
+
+    <string name="infoKiller1">Vous devez toucher le grand dés a gauche pour lancer les dés.\n
+    Touchez un des 5 dés a droite pour le garder.</string>
+
+    <string name="infoKiller2">Vous devez toucher le grand dés a droite pour lancer les dés.\n
+    Touchez les dés de la valeur de l\'attaque pour les garder et relancez les dés restants.</string>
+
+    <string name="garderD">Voulez vous garder le Dés numero</string>
+    <string name="Dmoin1">Vous devez lancez les dés avant de pouvoir en garder!</string>
+    <string name="DgardeMoinDe1">Vous devez gardez au moin un dés avant de lancez les dés restants!</string>
+    <string name="infoCible">Vous devez choisir le numero d\'un joueur en VIE puis toucher le logo attaque en bas a droite.</string>
+
+
+</resources>
