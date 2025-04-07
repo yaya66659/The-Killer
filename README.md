@@ -36,6 +36,38 @@ J’ai repris les règles simples et amusantes de ce jeu pour les transformer en
 
 ---
 
+## Capture d'ecran (ScreenShots):
+
+[Logo du jeu](screenshots/KillerLogo.png)
+
+[Choix du pseudo](screenshots/KillerPseudo.png)
+
+[Statistiques du joueur](screenshots/KillerStatJoueur.png)
+
+[Lancer de dés](screenshots/KillerLancerDes.png)
+
+[Garder certains dés](screenshots/KillerGraderDes.png)
+
+[Tentez une attaque](screenshots/KillerTentezUneAttaque.png)
+
+[Score de l'attaque](screenshots/KillerScoreAttaque.png)
+
+[Cibler un joueur](screenshots/KillerciblerJoueur.png)
+
+[Confirmation de la cible d’attaque](screenshots/KillerCibleAttaque.png)
+
+[Attaque – étape 1](screenshots/KillerAttaque01.png)
+
+[Attaque – étape 2](screenshots/KillerAttaque02.png)
+
+[Attaque – étape 3](screenshots/KillerAttaque03.png)
+
+[Infobulle 01](screenshots/KillerinfoBulle01.png)
+
+[Infobulle 02](screenshots/KillerinfoBulle02.png)
+
+
+
 ## 📖 Exemples de gameplay
 
 ### Tour standard :
