@@ -59,7 +59,7 @@ J’ai repris les règles simples et amusantes de ce jeu pour les transformer en
 
 Vous pouvez télécharger directement l’application Android ici :
 
-👉 **[Télécharger THE KILLER (.apk)](release/TheKiller.apk)**
+👉 **[Télécharger THE KILLER (.apk)](release/The-Killer.apk)**
 
 > ⚠️ Activez l’installation d’applications de sources inconnues dans les paramètres Android.
 
@@ -83,13 +83,13 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
 
 ## 📝 Licence
 
-**THE KILLER** est un projet **open source** développé par **Yann Pichat**.
+Ce projet est sous une licence **open source personnalisée** :
 
-- ✅ Vous pouvez : télécharger, jouer, modifier, améliorer, partager
-- ❌ Il est **interdit de commercialiser** ce jeu sous quelque forme que ce soit
+- ✅ Libre de modifier, partager et utiliser pour un usage personnel ou pédagogique
+- ❌ **Interdiction formelle d'en faire un usage commercial** sans autorisation
 
-> Pour toute utilisation commerciale ou question, contactez-moi à : **yann55446@gmail.com**
-
+Pour toute demande ou projet dérivé, vous pouvez me contacter à :  
+📧 **yann55446@gmail.com**
 ---
 
 ## 🙏 Remerciements
