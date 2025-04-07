@@ -59,7 +59,7 @@ J’ai repris les règles simples et amusantes de ce jeu pour les transformer en
 
 Vous pouvez télécharger directement l’application Android ici :
 
-👉 **[Télécharger THE KILLER (.apk)](lien-à-ajouter)**
+👉 **[Télécharger THE KILLER (.apk)](release/TheKiller.apk)**
 
 > ⚠️ Activez l’installation d’applications de sources inconnues dans les paramètres Android.
 
