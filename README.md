@@ -4,6 +4,18 @@
 
 ---
 
+## 📱 Installation (APK)
+
+Vous pouvez télécharger directement l’application Android ici :
+
+👉 **[Télécharger THE KILLER (.apk)](release/The-Killer.apk)**
+
+> ⚠️ Activez l’installation d’applications de sources inconnues dans les paramètres Android.
+
+📱 Compatible Android **5.0 (Lollipop)** et supérieur.
+
+---
+
 ## 🧠 Origine du projet
 
 Ce projet est l’adaptation mobile d’un jeu de dés auquel je jouais dans ma caravane, à une époque difficile de ma vie.  
@@ -52,18 +64,6 @@ J’ai repris les règles simples et amusantes de ce jeu pour les transformer en
 2. Il cible un joueur, relance les 5 dés et garde ceux ayant la valeur `3`
 3. Il répète l’opération jusqu’à ne plus obtenir de `3`
 4. Il garde 🎲 `3, 3` → **6 points de dégâts infligés**
-
----
-
-## 📱 Installation (APK)
-
-Vous pouvez télécharger directement l’application Android ici :
-
-👉 **[Télécharger THE KILLER (.apk)](release/The-Killer.apk)**
-
-> ⚠️ Activez l’installation d’applications de sources inconnues dans les paramètres Android.
-
-📱 Compatible Android **5.0 (Lollipop)** et supérieur.
 
 ---
 
