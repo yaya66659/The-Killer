@@ -82,23 +82,32 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
 ## Capture d'ecran (ScreenShots):
 
 <p>
-  <img src="screenshots/KillerLogo.png" alt="Logo du jeu"/><
-/p>
-[Choix du pseudo](screenshots/KillerPseudo.png)
+  <img src="screenshots/KillerLogo.png" alt="Logo du jeu"/>
 
-[Statistiques du joueur](screenshots/KillerStatJoueur.png)
+  <img src="screenshots/KillerPseudo.png" alt="Choix du pseudo"/>
+</p>
+<p>
+  <img src="screenshots/KillerStatJoueur.png" alt="Statistiques du joueur"/>
+</p>
+<p>
+  <img src="screenshots/KillerLancerDes.png" alt="Lancer de dés"/>
 
-[Lancer de dés](screenshots/KillerLancerDes.png)
+  <img src="screenshots/KillerGraderDes.png" alt="Garder certains dés"/>
+</p>
+<p>
+  <img src="screenshots/KillerTentezUneAttaque.png" alt="Tentez une attaque"/>
 
-[Garder certains dés](screenshots/KillerGraderDes.png)
+  <img src="screenshots/KillerScoreAttaque.png" alt="Score de l'attaque"/>
+</p>
+<p>
+  <img src="screenshots/KillerciblerJoueur.png" alt="Cibler un joueur"/>
 
-[Tentez une attaque](screenshots/KillerTentezUneAttaque.png)
+  <img src="screenshots/KillerCibleAttaque.png" alt="Confirmation de la cible d’attaque"/>
+</p>
 
-[Score de l'attaque](screenshots/KillerScoreAttaque.png)
 
-[Cibler un joueur](screenshots/KillerciblerJoueur.png)
 
-[Confirmation de la cible d’attaque](screenshots/KillerCibleAttaque.png)
+[]()
 
 [Attaque – étape 1](screenshots/KillerAttaque01.png)
 
