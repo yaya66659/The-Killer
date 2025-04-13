@@ -82,7 +82,7 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
 ## Capture d'ecran (ScreenShots):
 
 <p>
-  <img src="screenshots/KillerLogo.png" alt="Logo du jeu"/>
+  <img src="screenshots/KillerLogo.png" alt="Logo du jeu" width="200" height="200"/>
 
   <img src="screenshots/KillerPseudo.png" alt="Choix du pseudo"/>
 </p>
