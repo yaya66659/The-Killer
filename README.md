@@ -82,7 +82,7 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
 ## Capture d'ecran (ScreenShots):
 
 <p>
-  <img src="screenshots/KillerLogo.png" alt="Logo du jeu" width="200" height="200"/>
+  <img src="screenshots/KillerLogo.png" alt="Logo du jeu" width="100" height="100"/>
 
   <img src="screenshots/KillerPseudo.png" alt="Choix du pseudo"  width="200" height="200"/>
 </p>
@@ -105,25 +105,16 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
   <img src="screenshots/KillerCibleAttaque.png" alt="Confirmation de la cible d’attaque" width="200" height="200"/>
 </p>
 <p>
-<img src="screenshots/KillerAttaque01.png" alt="Attaque – étape 1" />
-<img src="screenshots/KillerAttaque02.png" alt="Attaque – étape 2" />
-  
+<img src="screenshots/KillerAttaque01.png" alt="Attaque – étape 1" width="200" height="200"/>
+<img src="screenshots/KillerAttaque02.png" alt="Attaque – étape 2" width="200" height="200"/>
+<img src="screenshots/KillerAttaque03.png" alt="Attaque – étape 3"  width="200" height="200"/>
 </p>
-
-
-
-
 <p>
-<img alt="Attaque – étape 3" src="screenshots/KillerAttaque03.png"/>
-
-[Infobulle 01](screenshots/KillerinfoBulle01.png)
-
-[Infobulle 02](screenshots/KillerinfoBulle02.png)
-
-  
+<img src="screenshots/KillerinfoBulle01.png" alt="Infobulle 01" vwidth="100" height="100"/>
+<img src="screenshots/KillerinfoBulle02.png" alt="Infobulle 02" width="100" height="100"/>
 </p>
 
-[
+
 
 ---
 
