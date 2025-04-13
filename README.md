@@ -82,36 +82,36 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
 ## Capture d'ecran (ScreenShots):
 
 <p>
-  <img src="screenshots/KillerLogo.png" alt="Logo du jeu" width="100" height="100"/>
+  <img src="screenshots/KillerLogo.png" alt="Logo du jeu" width="200" height="200"/>
 
-  <img src="screenshots/KillerPseudo.png" alt="Choix du pseudo"  width="200" height="200"/>
+  <img src="screenshots/KillerPseudo.png" alt="Choix du pseudo"  width="200" height="400"/>
 </p>
 <p>
-  <img src="screenshots/KillerStatJoueur.png" alt="Statistiques du joueur" width="200" height="200"/>
+  <img src="screenshots/KillerStatJoueur.png" alt="Statistiques du joueur" width="400" height="200"/>
 </p>
 <p>
-  <img src="screenshots/KillerLancerDes.png" alt="Lancer de dés" width="200" height="200"/>
+  <img src="screenshots/KillerLancerDes.png" alt="Lancer de dés" width="200" height="400"/>
 
-  <img src="screenshots/KillerGraderDes.png" alt="Garder certains dés" width="200" height="200"/>
+  <img src="screenshots/KillerGraderDes.png" alt="Garder certains dés" width="200" height="400"/>
 </p>
 <p>
-  <img src="screenshots/KillerTentezUneAttaque.png" alt="Tentez une attaque" width="200" height="200"/>
+  <img src="screenshots/KillerTentezUneAttaque.png" alt="Tentez une attaque" width="400" height="200"/>
 
-  <img src="screenshots/KillerScoreAttaque.png" alt="Score de l'attaque" width="200" height="200"/>
+  <img src="screenshots/KillerScoreAttaque.png" alt="Score de l'attaque" width="400" height="200"/>
 </p>
 <p>
-  <img src="screenshots/KillerciblerJoueur.png" alt="Cibler un joueur" width="200" height="200"/>
+  <img src="screenshots/KillerciblerJoueur.png" alt="Cibler un joueur" width="200" height="400"/>
 
-  <img src="screenshots/KillerCibleAttaque.png" alt="Confirmation de la cible d’attaque" width="200" height="200"/>
+  <img src="screenshots/KillerCibleAttaque.png" alt="Confirmation de la cible d’attaque" width="400" height="200"/>
 </p>
 <p>
-<img src="screenshots/KillerAttaque01.png" alt="Attaque – étape 1" width="200" height="200"/>
-<img src="screenshots/KillerAttaque02.png" alt="Attaque – étape 2" width="200" height="200"/>
-<img src="screenshots/KillerAttaque03.png" alt="Attaque – étape 3"  width="200" height="200"/>
+<img src="screenshots/KillerAttaque01.png" alt="Attaque – étape 1" width="200" height="400"/>
+<img src="screenshots/KillerAttaque02.png" alt="Attaque – étape 2" width="200" height="400"/>
+<img src="screenshots/KillerAttaque03.png" alt="Attaque – étape 3"  width="200" height="400"/>
 </p>
 <p>
-<img src="screenshots/KillerinfoBulle01.png" alt="Infobulle 01" vwidth="100" height="100"/>
-<img src="screenshots/KillerinfoBulle02.png" alt="Infobulle 02" width="100" height="100"/>
+<img src="screenshots/KillerinfoBulle01.png" alt="Infobulle 01" vwidth="400" height="200"/>
+<img src="screenshots/KillerinfoBulle02.png" alt="Infobulle 02" width="100" height="200"/>
 </p>
 
 
