@@ -109,11 +109,11 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
 <img src="screenshots/KillerAttaque02.png" alt="Attaque – étape 2" width="200" height="400"/>
 </p>
 <p>
-<img src="screenshots/KillerAttaque03.png" alt="Attaque – étape 3"  width="200" height="400"/>
+<img src="screenshots/KillerAttaque03.png" alt="Attaque – étape 3"  width="400" height="200"/>
 </p>
 <p>
-<img src="screenshots/KillerinfoBulle01.png" alt="Infobulle 01" vwidth="200" height="200"/>
-<img src="screenshots/KillerinfoBulle02.png" alt="Infobulle 02" width="200" height="200"/>
+<img src="screenshots/KillerinfoBulle01.png" alt="Infobulle 01" vwidth="400" height="200"/>
+<img src="screenshots/KillerinfoBulle02.png" alt="Infobulle 02" width="400" height="200"/>
 </p>
 
 
