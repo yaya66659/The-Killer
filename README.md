@@ -91,6 +91,7 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
 </p>
 <p>
   <img src="screenshots/KillerLancerDes.png" alt="Lancer de dés" width="400" height="400"/>
+  
   <img src="screenshots/KillerGraderDes.png" alt="Garder certains dés" width="200" height="400"/>
 </p>
 
@@ -116,6 +117,7 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
 <p>
 <img src="screenshots/Killerinfobulle01.png" alt="Infobulle 01" vwidth="400" height="200"/>
 </p>
+
 <p>
 <img src="screenshots/KillerinfoBulle02.png" alt="Infobulle 02" width="400" height="200"/>
 </p>
