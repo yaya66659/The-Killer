@@ -87,7 +87,7 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
 </p>
 
 <p>
-  <img src="screenshots/KillerStatJoueur.png" alt="Statistiques du joueur" width="200" height="200"/>
+  <img src="screenshots/KillerStatJoueur.png" alt="Statistiques du joueur" width="400" height="200"/>
 </p>
 <p>
   <img src="screenshots/KillerLancerDes.png" alt="Lancer de dés" width="400" height="400"/>
