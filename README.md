@@ -84,41 +84,46 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
 <p>
   <img src="screenshots/KillerLogo.png" alt="Logo du jeu" width="200" height="200"/>
 
-  <img src="screenshots/KillerPseudo.png" alt="Choix du pseudo"/>
+  <img src="screenshots/KillerPseudo.png" alt="Choix du pseudo"  width="200" height="200"/>
 </p>
 <p>
-  <img src="screenshots/KillerStatJoueur.png" alt="Statistiques du joueur"/>
+  <img src="screenshots/KillerStatJoueur.png" alt="Statistiques du joueur" width="200" height="200"/>
 </p>
 <p>
-  <img src="screenshots/KillerLancerDes.png" alt="Lancer de dés"/>
+  <img src="screenshots/KillerLancerDes.png" alt="Lancer de dés" width="200" height="200"/>
 
-  <img src="screenshots/KillerGraderDes.png" alt="Garder certains dés"/>
+  <img src="screenshots/KillerGraderDes.png" alt="Garder certains dés" width="200" height="200"/>
 </p>
 <p>
-  <img src="screenshots/KillerTentezUneAttaque.png" alt="Tentez une attaque"/>
+  <img src="screenshots/KillerTentezUneAttaque.png" alt="Tentez une attaque" width="200" height="200"/>
 
-  <img src="screenshots/KillerScoreAttaque.png" alt="Score de l'attaque"/>
+  <img src="screenshots/KillerScoreAttaque.png" alt="Score de l'attaque" width="200" height="200"/>
 </p>
 <p>
-  <img src="screenshots/KillerciblerJoueur.png" alt="Cibler un joueur"/>
+  <img src="screenshots/KillerciblerJoueur.png" alt="Cibler un joueur" width="200" height="200"/>
 
-  <img src="screenshots/KillerCibleAttaque.png" alt="Confirmation de la cible d’attaque"/>
+  <img src="screenshots/KillerCibleAttaque.png" alt="Confirmation de la cible d’attaque" width="200" height="200"/>
+</p>
+<p>
+<img src="screenshots/KillerAttaque01.png" alt="Attaque – étape 1" />
+<img src="screenshots/KillerAttaque02.png" alt="Attaque – étape 2" />
+  
 </p>
 
 
 
-[]()
 
-[Attaque – étape 1](screenshots/KillerAttaque01.png)
-
-[Attaque – étape 2](screenshots/KillerAttaque02.png)
-
-[Attaque – étape 3](screenshots/KillerAttaque03.png)
+<p>
+<img alt="Attaque – étape 3" src="screenshots/KillerAttaque03.png"/>
 
 [Infobulle 01](screenshots/KillerinfoBulle01.png)
 
 [Infobulle 02](screenshots/KillerinfoBulle02.png)
 
+  
+</p>
+
+[
 
 ---
 
