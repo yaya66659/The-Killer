@@ -90,7 +90,7 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
   <img src="screenshots/KillerStatJoueur.png" alt="Statistiques du joueur" width="400" height="200"/>
 </p>
 <p>
-  <img src="screenshots/KillerLancerDes.png" alt="Lancer de dés" width="200" height="400"/>
+  <img src="screenshots/KillerLancerDes.png" alt="Lancer de dés" width="400" height="400"/>
 
   <img src="screenshots/KillerGraderDes.png" alt="Garder certains dés" width="200" height="400"/>
 </p>
@@ -100,18 +100,20 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
   <img src="screenshots/KillerScoreAttaque.png" alt="Score de l'attaque" width="400" height="200"/>
 </p>
 <p>
-  <img src="screenshots/KillerciblerJoueur.png" alt="Cibler un joueur" width="200" height="400"/>
+  <img src="screenshots/KillerciblerJoueur.png" alt="Cibler un joueur" width="200" height="200"/>
 
-  <img src="screenshots/KillerCibleAttaque.png" alt="Confirmation de la cible d’attaque" width="400" height="200"/>
+  <img src="screenshots/KillerCibleAttaque.png" alt="Confirmation de la cible d’attaque" width="200" height="400"/>
 </p>
 <p>
 <img src="screenshots/KillerAttaque01.png" alt="Attaque – étape 1" width="200" height="400"/>
 <img src="screenshots/KillerAttaque02.png" alt="Attaque – étape 2" width="200" height="400"/>
+</p>
+<p>
 <img src="screenshots/KillerAttaque03.png" alt="Attaque – étape 3"  width="200" height="400"/>
 </p>
 <p>
-<img src="screenshots/KillerinfoBulle01.png" alt="Infobulle 01" vwidth="400" height="200"/>
-<img src="screenshots/KillerinfoBulle02.png" alt="Infobulle 02" width="100" height="200"/>
+<img src="screenshots/KillerinfoBulle01.png" alt="Infobulle 01" vwidth="200" height="200"/>
+<img src="screenshots/KillerinfoBulle02.png" alt="Infobulle 02" width="200" height="200"/>
 </p>
 
 
