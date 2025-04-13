@@ -81,8 +81,9 @@ Ce projet représente ma première grande étape dans l'apprentissage du dévelo
 
 ## Capture d'ecran (ScreenShots):
 
-[Logo du jeu](screenshots/KillerLogo.png)
-
+<p>
+  <img src="screenshots/KillerLogo.png" alt="Logo du jeu"/><
+/p>
 [Choix du pseudo](screenshots/KillerPseudo.png)
 
 [Statistiques du joueur](screenshots/KillerStatJoueur.png)
